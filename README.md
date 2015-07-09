@@ -888,3 +888,7 @@ The *analyse* tool draws a pretty graph of all the modules, and gives us all sor
 ## Link
 
 <https://shahbhavir.github.io/webpack-talk/> <!-- .element: class="fragment" -->
+
+Note:
+
+Credits: ([Daniel](https://unindented.github.io/webpack-presentation/))
