@@ -6,6 +6,14 @@ I think Webpack is an awesome tool, but not enough people know it. I want to cha
 
 
 
+## Who am I
+
+Bhavir Shah ([@shahbhavir](https://github.com/shahbhavir))
+
+Software developer at Housing.com
+
+
+
 ## What is Webpack
 
 - Module bundler <!-- .element: class="fragment" -->
@@ -874,3 +882,13 @@ The *analyse* tool draws a pretty graph of all the modules, and gives us all sor
 * Loaders for every format <!-- .element: class="fragment" -->
 * Context Replacement <!-- .element: class="fragment" -->
 * Circular Dependencies <!-- .element: class="fragment" -->
+
+
+
+## Link
+
+<https://shahbhavir.github.io/webpack-talk/> <!-- .element: class="fragment" -->
+
+Note:
+
+Credits: ([Daniel](https://unindented.github.io/webpack-presentation/))
